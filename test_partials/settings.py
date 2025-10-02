@@ -38,7 +38,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'demo_app.apps.DemoAppConfig',
-    'template_partials',
 ]
 
 MIDDLEWARE = [
